@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sasha/CLionProjects/untitled1/AllHeaders.h
+
+C:/Users/sasha/CLionProjects/untitled1/askOperation.cpp
+iostream
+-
+AllHeaders.h
+C:/Users/sasha/CLionProjects/untitled1/AllHeaders.h
+
+C:/Users/sasha/CLionProjects/untitled1/homework_lesson2.cpp
+iostream
+-
+math.h
+-
+AllHeaders.h
+C:/Users/sasha/CLionProjects/untitled1/AllHeaders.h
+cmath
+-
+string
+-
+
+C:/Users/sasha/CLionProjects/untitled1/operation.cpp
+iostream
+-
+math.h
+-
+AllHeaders.h
+C:/Users/sasha/CLionProjects/untitled1/AllHeaders.h
+cmath
+-
+
